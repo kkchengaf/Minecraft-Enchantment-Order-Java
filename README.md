@@ -53,7 +53,7 @@ Run:
 java -cp .;optimal-anvil-order-20230117.jar Main
 ```
 # Documentation
-Read more in [Javadoc](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/). There are several good starting points:
+[Read more in Javadoc](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/). There are several good starting points:
 - [SearchResult Class](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/EnchantmentOrder/SearchResult.html)
 - [Node Class](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/EnchantmentOrder/Node.html)
 - [NodeValue Class](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/EnchantmentOrder/NodeValue.html)
