@@ -9,7 +9,7 @@ The search is limited to a tool + books with only one enchantment, such as when 
 The algorithm works very well. It takes less than a second even if there are more than 8 books. <br>
 If you are interested in writing Minecraft Mod for this, feel free to use the library. <br>
 
-[Download Jar](https://github.com/kkchengaf/Minecraft-Enchantment-Order-Java/releases/tag/v1.0.0)
+[Download Jar](https://github.com/kkchengaf/Minecraft-Enchantment-Order-Java/releases/download/v1.0.0/optimal-anvil-order-20230117.jar)
 
 # Usage
 Snippet of exmaple program [Main.java](https://github.com/kkchengaf/Minecraft-Enchantment-Order-Java/blob/master/demo/Main.java)
