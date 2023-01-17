@@ -32,7 +32,7 @@ public class Main {
      * Main Entry Point
      * @param args, arguments
      */
-    public static void main(String[] args) {/*
+    public static void main(String[] args) {
 
         //Create a HashMap, store the inputs
         HashMap<String, Integer> enchants = new HashMap<>();
@@ -62,6 +62,6 @@ public class Main {
             }
         });
         System.out.println("Total Enchant Cost: %2s".formatted(totalCost[0]));
-        System.out.println("Total  Anvil  Cost: %2s".formatted(totalCost[1]));*/
+        System.out.println("Total  Anvil  Cost: %2s".formatted(totalCost[1]));
     }
 }
