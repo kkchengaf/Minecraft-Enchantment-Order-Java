@@ -1,5 +1,5 @@
 # Minecraft-Enchantment-Order-Java
-a Java program that calculates the optimal combining order in anvil
+Java program to calculate the optimal combining order in anvil
 
 [Web Version](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Calculator/)
 
@@ -53,6 +53,7 @@ Run:
 java -cp .;optimal-anvil-order-20230117.jar Main
 ```
 # Documentation
-Read more in [Javadoc](). There are several good starting points:
-- SearchResult Class
-- Node Class
+Read more in [Javadoc](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/). There are several good starting points:
+- [SearchResult Class](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/EnchantmentOrder/SearchResult.html)
+- [Node Class](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/EnchantmentOrder/Node.html)
+- [NodeValue Class](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Java/EnchantmentOrder/NodeValue.html)
